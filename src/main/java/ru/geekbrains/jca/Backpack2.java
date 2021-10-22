@@ -74,6 +74,4 @@ public class Backpack2 {
         return result;
     }
 
-
-
 }
